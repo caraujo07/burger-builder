@@ -8,6 +8,12 @@
   font-size: 1.2rem;
 }
 
+@media (max-width: 499px) {
+  .Burger {
+    font-size: 1rem;
+  }
+}
+
 @media (min-width: 500px) and (min-height: 400px) {
   .Burger {
      width: 350px;

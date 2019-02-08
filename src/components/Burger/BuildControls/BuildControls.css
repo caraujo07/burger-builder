@@ -19,6 +19,7 @@
   color: #966909;
   font-family: inherit;
   font-size: 1.2em;
+  text-transform: capitalize;
   padding: 15px 30px;
   box-shadow: 2px 2px 2px #966909;
 }

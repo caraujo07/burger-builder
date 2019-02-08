@@ -22,6 +22,8 @@
 
 @media (max-width: 499px) {
     .Modal {
+        width: 80%;
         top: 15%;
+        left: 10%;
     }
 }
